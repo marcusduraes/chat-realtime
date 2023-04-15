@@ -87,3 +87,34 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+/* Dark */
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
+}
+
+body,
+input {
+  background-color: #1a1a1a !important;
+  color: white !important;
+}
+
+.header {
+  font-size: 14px;
+  font-weight: 700;
+  font-family: monospace;
+}
+
+li {
+  width: fit-content;
+}
+.time {
+  padding-left: 10px;
+  font-size: 12px;
+  font-family: monospace;
+}

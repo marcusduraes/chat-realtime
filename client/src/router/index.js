@@ -14,6 +14,7 @@ const routes = [
     name: "Chat",
     component: Chat,
   },
+  
 ];
 
 const router = createRouter({
