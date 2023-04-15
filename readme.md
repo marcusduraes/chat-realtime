@@ -72,3 +72,8 @@ Com os usuários já criados, está tudo pronto!
 Agora basta acessar o endereço: [http://localhost:5173/](http://localhost:5173/) e realizar o login
 
 
+https://user-images.githubusercontent.com/106177259/232175201-e567eacb-2072-4383-9e4d-971d52015c44.mp4
+
+
+
+
